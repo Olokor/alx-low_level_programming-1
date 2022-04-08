@@ -7,7 +7,7 @@
 int main(void)
 {
 /*
-*Function:  approx_pi 
+*Function:  main
 *--------------------
 *My main function
 */
