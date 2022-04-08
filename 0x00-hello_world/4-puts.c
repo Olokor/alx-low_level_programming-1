@@ -7,6 +7,8 @@
 int main(void)
 {
 /*
+*Function:  approx_pi 
+*--------------------
 *My main function
 */
 puts("\"Programming is like building a multilingual puzzle");
